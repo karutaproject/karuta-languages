@@ -1,5 +1,8 @@
 karutaStr['en'] = new Array();
 
+//=========================================
+//========== GENERAL ========================
+//=========================================
 
 //----------------------------------------------------
 karutaStr['en']['language']="English";
@@ -76,8 +79,6 @@ karutaStr['en']['confirm-password']="Confirm password";
 karutaStr['en']['password-mismatch']="The two passwords do not match.";
 karutaStr['en']['saved']="Saved";
 karutaStr['en']['password-sent']="A new password has been sent by email.";
-karutaStr['en']['code-sent']="A code has been sent by email.";
-karutaStr['en']['message-code-text']="Your code :";
 karutaStr['en']['new-account']="You don't have an account?";
 karutaStr['en']['sign-up']="Sign Up!";
 karutaStr['en']['disconnected']="Oups! Maybe you have accidentally been disconnected! Reload the page to verify.";
@@ -106,6 +107,8 @@ karutaStr["en"]["instruction-export-menu"] = "Copy the menu and paste it where y
 karutaStr["en"]["back"] = "Click to go back";
 karutaStr["en"]["select-deselect"] = "Select/Deselect All";
 karutaStr["en"]["noemail-yourself"] = "You cannot use your email address.";
+karutaStr["en"]["select-deselect"] = "Select/Deselect All";
+karutaStr["en"]["noemail-yourself"] = "You cannot use your email address.";
 
 //=========================================
 //========== ERRORS =======================
@@ -115,7 +118,6 @@ karutaStr['en']['error-existing-code']="ERROR - The code already exists. Please 
 karutaStr['en']['error-existing-login']="ERROR - The login already exists or an input is invalid. Please choose another login or check input fields.";
 karutaStr['en']['error-empty-code']="ERROR - The code cannot be empty.";
 karutaStr['en']['error-notfound']="ERROR - not found";
-karutaStr['en']['error-filenotfound']="*** File not saved or missing";
 
 //=========================================
 //========== NODE =====================
@@ -409,7 +411,6 @@ karutaStr['en']['username']="Login";
 karutaStr['en']['lastname']="Last Name";
 karutaStr['en']['firstname']="First Name";
 karutaStr['en']['email']="Email";
-karutaStr['en']['code']="Code";
 karutaStr['en']['change_password']="Change Password";
 karutaStr['en']['change_name']="Change Name";
 karutaStr['en']['password']="Password";
@@ -428,7 +429,6 @@ karutaStr['en']['delete-temporary-users']="Delete All";
 karutaStr['en']['delete-empty-users']="Delete Selection";
 karutaStr['en']['c-a-s']="C/A/S";
 karutaStr['en']['too-much-users']="There are more than 200 users. Click 'See' button to display them or search using the input above."
-karutaStr['en']['new-code']="Send your login.You will receive a code to connect."
 
 //=========================================
 //========== ROLES ========================
@@ -474,7 +474,6 @@ karutaStr['en']['csv']="Roles - Button CSV";
 karutaStr['en']['pdf']="Roles - Button PDF";
 karutaStr['en']['rtf']="Rôles - Button RTF";
 karutaStr['en']['img']="Rôles - Button PNG";
-karutaStr['en']['print']="Rôles - Button Print";
 karutaStr['en']['document-required']="You have to specify a document before to submit !";
 karutaStr['en']['size-upload']="Your file is so big : it must be less than " + g_configVar['maxfilesizeupload'] + " Mo !";
 karutaStr['en']['local-label']="Local Label";
@@ -565,7 +564,6 @@ karutaStr['en']['asmRoot']="Root";
 karutaStr['en']['asmStructure']="Section";
 karutaStr['en']['asmUnit']="Page";
 karutaStr['en']['asmUnitStructure']="Subsection";
-karutaStr['en']['tabs-section']="Subsection (tabs)";
 
 karutaStr['en']['TextField']="Long Text";
 karutaStr['en']['Field']="Short Text";
