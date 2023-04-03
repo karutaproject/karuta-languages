@@ -1,7 +1,7 @@
 karutaStr['fr'] = new Array();
 
 //==============================================
-//================== General ===================
+//================== GENERAL ===================
 //==============================================
 
 karutaStr['fr']['language']="Français";
@@ -16,7 +16,7 @@ karutaStr['fr']['no']="Non";
 karutaStr['fr']['home']="Accueil";
 karutaStr['fr']['loading']="Chargement ... ";
 karutaStr['fr']['create_pdf']="Créer PDF";
-karutaStr['fr']['create_pdf_toc']="Créer PDF avec TdM";
+karutaStr['fr']['create_pdf_toc']="Créer un PDF avec TdM";
 karutaStr['fr']['Update']="Éditer";
 karutaStr['fr']['Create']="Créer";
 karutaStr['fr']['Change']="Changer";
@@ -79,10 +79,6 @@ karutaStr['fr']['password-sent']="Un nouveau mot de passe a été envoyé par co
 karutaStr['fr']['new-account']="Vous n'avez pas de compte?";
 karutaStr['fr']['sign-up']="Inscrivez-vous!";
 karutaStr['fr']['disconnected']="Oups! Erreur de sauvegarde. Vous avez peut-être été accidentellement déconnecté! Vérifiez en rechargeant la page.";
-karutaStr['fr']['demo-documentation']="Importer la documentation Karuta";
-karutaStr['fr']['demo-ecommerce']="Importer les portfolios démo eCommerce";
-karutaStr['fr']['demo-aacu']="Importer les portfolios démo AACU";
-karutaStr['fr']['demo-video']="Importer les portfolios démo des vidéos YouTube";
 karutaStr['fr']['want-sharing']=" désire partager avec vous une partie de son portfolio.";
 karutaStr['fr']['share-URL']="Partage du portfolio";
 karutaStr['fr']['see']="Voir";
@@ -106,6 +102,10 @@ karutaStr['fr']['copied']="Copié";
 karutaStr['fr']['waitreport']="Patience, le rapport est exécuté sur le serveur. Revenez dans quelques minutes pour visualiser le rapport.";
 karutaStr['fr']['instruction-export-menu']="Copier le menu Ajouter et le coller dans l'élément où vous voulez l'importer.";
 karutaStr['fr']['back']="Cliquer pour revenir en arrière";
+karutaStr['fr']['select-deselect']="Sélectionner/Désélectionner tout";
+karutaStr['fr']['noemail-yourself']="Vous ne pouvez utiliser votre courriel.";
+karutaStr['fr']['select-deselect']="Sélectionner/Désélectionner tout";
+karutaStr['fr']['noemail-yourself']="Vous ne pouvez utiliser votre courriel.";
 
 //==============================================
 //=================== ERRORS ===================
