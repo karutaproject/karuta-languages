@@ -4,16 +4,13 @@ karutaStr['en'] = new Array();
 //========== GENERAL ========================
 //=========================================
 
-//----------------------------------------------------
 karutaStr['en']['language']="English";
 karutaStr['en']['langshort']="EN";
 karutaStr['en']['flag-name']="United-Kingdom";
-//----------------------------------------------------
 karutaStr['en']['new']="New Element";
 karutaStr['en']['email']="Email";
 karutaStr['en']['password']="Password";
 karutaStr['en']['login']="Login";
-//----------------------------------------------------
 karutaStr['en']['yes']="Yes";
 karutaStr['en']['no']="No";
 karutaStr['en']['home']="Home";
