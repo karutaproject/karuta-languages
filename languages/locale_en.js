@@ -106,6 +106,7 @@ karutaStr["en"]["select-deselect"] = "Select/Deselect All";
 karutaStr["en"]["noemail-yourself"] = "You cannot use your email address.";
 karutaStr["en"]["select-deselect"] = "Select/Deselect All";
 karutaStr["en"]["noemail-yourself"] = "You cannot use your email address.";
+karutaStr["en"]["displaytest"] = "Display JS Test";
 
 //=========================================
 //========== ERRORS =======================
